@@ -8,7 +8,7 @@
 -      HTML
 -      CSS
 -      Python
--      ZRM
+-      CRM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -     Number: 0749258115
