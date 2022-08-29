@@ -4,11 +4,11 @@
 -     Hardware
 -     Software
 - 🌱 I’m currently learning ...
-      JS
-      HTML
-      CSS
-      Python
-      ZRM
+-      JS
+-      HTML
+-      CSS
+-      Python
+-      ZRM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -     Number: 0749258115
